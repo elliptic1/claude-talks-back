@@ -4,8 +4,6 @@
 
 Instead of reading raw terminal output, Claude summarizes each response conversationally and speaks it through your Mac's text-to-speech — like a colleague glancing at the screen and telling you what just happened.
 
-https://github.com/user-attachments/assets/demo.mp4
-
 ## How it works
 
 1. Claude Code writes a response to your terminal (the full technical detail)
